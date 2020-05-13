@@ -1,3 +1,3 @@
 # TaxicabNumber
-A taxicab number checker. See screenshots below
+A taxicab number checker. See gif below
 ![](Screenshot/1.gif)
